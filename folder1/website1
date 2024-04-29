@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Welcome </title>
+    <link rel="stylesheet" href="">
+</head>
+
+<body style="background-color: black;">
+
+<H1 style="color: rgb(0, 0, 0); text-align: center; background-color: rgb(85, 255, 73);"> WELCOME TO MY WEBSITE! </H1>
+
+<div style="background-color: rgb(223, 223, 223); height: 250px;">
+    <div style="border-top: 100px;">
+    <p><a href="GITHUB\WEBAPP2\main2.html">Welcome</a></p>
+    <p><a href="About">About</a></p>
+    <p><a href="Services">Services</a></p>
+    <p><a href="Products">Products</a></p>
+    <p><a href="Contact">Contact</a></p>
+    <p><a href="FAQs">FAQs</a></p>
+    </div>
+</div>
+
+<H2 style="text-align: center; color: rgb(66, 247, 114);"> Thank you for doing business with us! </H2>
+
+<div style="background-color: rgb(86, 255, 71); text-align: center;"><img src="investingImage1.jpg" width="90%" height="">
+
+</div>
+
+<div style="background-color: rgb(96, 255, 74);">
+
+<h1 style="color: black; background-color: rgb(88, 255, 76); text-align: center; height: 100px;"> NEW PART </h1>
+
+<div style="background-color: lightgrey; height: 1000px">
+    <h1 style="color: rgb(43, 255, 67); background-color: black; height: 100px;"> About </h1>
+
+
+</div>
+
+<div style="background-color: lightgrey; height: 1000px;">
+    <h1 style="color: rgb(43, 255, 67); background-color: black; height: 100px;"> Services </h1>
+
+
+</div>
+
+<div style="background-color: lightgrey; height: 1000px;">
+    <h1 style="color: rgb(43, 255, 67); background-color: black; height: 100px;"> Products </h1>
+
+
+</div>
+
+<div style="background-color: lightgrey; height: 1000px;">
+    <h1 style="color: rgb(43, 255, 67); background-color: black; height: 100px;"> Contact </h1>
+
+
+</div>
+
+<div style="background-color: lightgrey; height: 1000px;">
+    <h1 style="color: rgb(43, 255, 67); background-color: black; height: 100px;"> FAQs </h1>
+
+
+</div>
+
+</div>
+
+
+</body>
+
+
+</html>
